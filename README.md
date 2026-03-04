@@ -41,3 +41,17 @@ npm start
 The App runs at:
 
 - http://localhost:3000
+
+
+---
+
+## 📚 Learning Purpose
+
+This project was created to practice advanced React concepts such as:
+
+- Global state management using Context API
+- Managing complex state with useReducer
+- Implementing the reducer pattern
+- Component structure and separation of concerns
+- Handling user interactions (keyboard events)
+- Theme management (light / dark mode)
