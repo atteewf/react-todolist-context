@@ -1,25 +1,44 @@
-# React Todo List with Context
+# React Todo List with Context & useReducer
 
-A simple React Todo app demonstrating:
+A simple Todo application built with **React** demonstrating:
 
-- useContext for state management
-- useReducer for handling todos
-- Theme switch between dark and light mode
+- `useContext` for global state management
+- `useReducer` for handling todos
+- Theme switch (dark / light mode)
 - Deleting todos directly from the list
-- Keyboard 'Enter' to add a todo
+- Adding todos with the **Enter** key
 
-## Features
+---
 
-1. Add todos with input and Enter key
-2. Delete todos individually
-3. Switch between dark and light theme
-4. Simple and clean UI using React
+## 🚀 Features
 
-## Installation
+- Add todos using input field
+- Press **Enter** to create a new todo
+- Delete individual todos
+- Toggle between dark and light theme
+- Clean and minimal UI
+
+---
+
+## 🛠 Technologies Used
+
+- React
+- JavaScript
+- useReducer
+- useContext
+- CSS
+
+---
+
+## 📦 Installation
 
 ```bash
 git clone https://github.com/atteewf/react-todolist-context.git
 cd react-todolist-context
 npm install
 npm start
-```
+
+
+ ** ##The App runs at **
+
+- http://localhost:3000
